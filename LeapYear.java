@@ -1,6 +1,6 @@
 import java.io.*;
 class LeapYear{
-    public static void main(String arg[]){
+    public static void main(String[] args){
         int year=2024;
         if (year%4==0){
             System.out.println("The year is a leap year");
@@ -12,5 +12,6 @@ class LeapYear{
 
 OUTPUT--
 The year is a leap year
+
 
 === Code Execution Successful ===
